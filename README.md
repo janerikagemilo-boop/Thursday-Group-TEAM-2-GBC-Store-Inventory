@@ -1,1 +1,2 @@
-# Thursday-Group-TEAM-2-GBC-Store-Inventory
+# TEAM-2-SARI-SARI-STORE-IVENTORY
+Activity 4: Group Activity - Electron Js App TEAM 2

@@ -1,0 +1,16 @@
+{
+  "name": "gbc-store-inventory",
+  "version": "1.0.0",
+  "description": "GBC Store Inventory App using Electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "GEMILO, JAN ERIKA.",
+  "devDependencies": {
+    "electron": "^38.2.2"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

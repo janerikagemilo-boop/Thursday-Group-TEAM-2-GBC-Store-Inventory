@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Coke",
+    "quantity": 2,
+    "buyPrice": 10,
+    "sellPrice": 15,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Pepsi",
+    "quantity": 3,
+    "buyPrice": 7,
+    "sellPrice": 11,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Royal",
+    "quantity": 5,
+    "buyPrice": 9,
+    "sellPrice": 12,
+    "expiry": "2025-10-31"
+  },
+  {
+    "name": "Mountain Dew",
+    "quantity": 6,
+    "buyPrice": 10,
+    "sellPrice": 14,
+    "expiry": "2025-10-20"
+  },
+  {
+    "name": "7 Up",
+    "quantity": 7,
+    "buyPrice": 11,
+    "sellPrice": 13,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Dr Pepper",
+    "quantity": 8,
+    "buyPrice": 12,
+    "sellPrice": 15,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Fanta",
+    "quantity": 9,
+    "buyPrice": 13,
+    "sellPrice": 17,
+    "expiry": "2025-10-01"
+  },
+  {
+    "name": "Sarsi",
+    "quantity": 10,
+    "buyPrice": 14,
+    "sellPrice": 16,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Root Beer",
+    "quantity": 0,
+    "buyPrice": 15,
+    "sellPrice": 18,
+    "expiry": "2025-10-20"
+  },
+  {
+    "name": "Tanduay",
+    "quantity": 12,
+    "buyPrice": 16,
+    "sellPrice": 20,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "San Miguel",
+    "quantity": 1,
+    "buyPrice": 17,
+    "sellPrice": 19,
+    "expiry": "2025-10-31"
+  },
+  {
+    "name": "Red Horse",
+    "quantity": 2,
+    "buyPrice": 18,
+    "sellPrice": 21,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Emperador",
+    "quantity": 3,
+    "buyPrice": 19,
+    "sellPrice": 23,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Ginebra",
+    "quantity": 4,
+    "buyPrice": 20,
+    "sellPrice": 22,
+    "expiry": "2025-10-20"
+  },
+  {
+    "name": "Fundador",
+    "quantity": 5,
+    "buyPrice": 21,
+    "sellPrice": 24,
+    "expiry": "2025-10-01"
+  },
+  {
+    "name": "The Bar",
+    "quantity": 6,
+    "buyPrice": 22,
+    "sellPrice": 26,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Smirnoff",
+    "quantity": 7,
+    "buyPrice": 23,
+    "sellPrice": 25,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Vodka Cruiser",
+    "quantity": 8,
+    "buyPrice": 200,
+    "sellPrice": 225,
+    "expiry": "2026-12-14"
+  },
+  {
+    "name": "Soju",
+    "quantity": 0,
+    "buyPrice": 80,
+    "sellPrice": 125,
+    "expiry": "2025-10-20"
+  }
+]
